@@ -1,0 +1,2 @@
+# background-color-generator
+The Background Color Generator is a versatile digital tool designed to empower users with the ability to effortlessly create captivating and visually appealing backgrounds for various digital applications. Whether you're designing a website, crafting eye-catching social media graphics, or simply looking to add a splash of color to your documents, this tool offers a seamless and intuitive way to generate custom background colors that suit your creative needs.
